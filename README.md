@@ -71,11 +71,7 @@ This dashboard provides deep insights into stock market trends, price volatility
 | **DAX (Data Analysis Expressions)** | Custom calculations and measures |
 | **Excel/CSV** | Source data formats |
 
-## 📁 Repository Structure
 
-```
-
-```
 
 ## 🚀 Getting Started
 
